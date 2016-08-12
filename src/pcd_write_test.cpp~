@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
      std::cout <<"dimensions ,x:"<<cloud->width<<",y:"<<cloud->height<<endl;
 std::string title;
 title.append(argv[1]);
-title.append(".txt");
+title.append(".3d");
 std::string *titleptr=&title;
 cout<<title<<endl;
      double result[cloud->width][3];
