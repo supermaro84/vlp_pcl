@@ -1,2 +1,0 @@
-/home/marek/marek_git/cylinder_trees/src/build/CMakeFiles/cloud_viewer.dir
-/home/marek/marek_git/cylinder_trees/src/build/CMakeFiles/pcd_write_test.dir
